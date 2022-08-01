@@ -1,0 +1,41 @@
+name	auras	constant effect	fate	activation	resistance	effect	flavor	tags	architect	cost	copies	image
+Bloodthirsty Orcs	Brutal		light/ grey	late	2 barony 4 combat	2 front vitality	They stand in rank, spears forward, shields braced	minion, orc, soldier	thralltaker	1 treasure 1 brutal		bloodthirsty_orcs
+^			dark	early	1 barony 2 combat	3 front vitality 2 front resolve	They howl and rave, swords drawn, teeth bared					
+Fetid Imps	Brutal		light	late	1 barony 2 combat	1 join front vitality	They huddle and cringe, fearful of blows	minion, imp, soldier	thralltaker	1 brutal/1 treasure		fetid_imps
+^			grey/ dark	early	1 barony 2 combat	1 front vitality or 2 join front vitality	They harry and prod, keeping their distance					
+Starved Troll	Brutal Brutal	entrance: Spend 1 hostage to increase resistance by 1 barony 2 combat for this encounter	light	late	1 barony 2 combat	1 front vitality	It blinks and stumbles, feebly resisting its foes.	minion, big, hungry	thralltaker	1 hostage		starved_troll
+^			grey/ dark	late	3 barony 5 combat	4 front vitality 2 front resolve	It bellows and thrashes, stuffing its maw with limbs.					
+Orc Spelltalker	Brutal Weird	entrance: All other orcs' combat resistance increase by 1 for this encounter	light	late	2 barony 3 combat	2 front resolve or  1 join front resolve	It grunts and whispers, conjuring foul visions	minion, orc	thralltaker	1 Weird / 1 Treasure 1 Brutal 		orc_spelltalker
+^			grey/ dark	late	2 barony 3 combat	pierce (3/2) front vitality or 2 join front vitality	It shrieks and wails, blasting with fire.					
+Vigilant Imps	Any	When this asset acts, put it in an unexplored room for this incursion. Minions in that room must act Early	light/ grey	late	2 Barony 3 combat	-	The watchers scramble, tardy at their posts	structure, imp	thralltaker	1 treasure / 1 any		vigilant_imps
+^			dark	early	2 Barony 3 combat	-	Bells ring and voices howl, alerting nearby allies.					
+Tarvost Assassin	Brutal Trap	entrance: Can take green to act early	light	late	2 guild 1 combat	1 front vitality	Caught in the act, the assassin desperately retreats.	minion, human	limbsnatcher	2 treasure / 1 green		tarvost_assassin
+^			grey/ dark	late	3 guild 5 combat	pierce (4/3) back vitality 2 either resolve	In the Tarvost school, stealth is valued over swiftness.					
+The Jaws	Trap	entrance: Can take red to shatter 2 guards	light/ grey	late	3 guild 	pierce (3/2) either vitality	After a grinding sound, twin stones smash into the hall.	structure, trap	limbsnatcher	2 treasure		the_jaws
+^			dark	early	3 guild 8 combat	pierce (5/4) either vitality	In but a moment, the hall is filled with stone, and the cracks gush with blood.					
+The Honeypot	Trap	entrance: This Asset only acts if paid a Hostage	light	late	4 guild	pierce (3/2) either resolve	"Wait! Don't come any closer!" The hostage cries out to the heroes. They hesitate, and the trap snaps closed.	structure, trap	limbsnatcher			the_honeypot
+^			grey/ dark	late	4 guild	1 front Slay pierce (2/2) either resolve	Frantic, but bound, the hostage whimpers. The helper and hostage perish both.					
+Fuming Salts	Any	early: red: 1 join either vitality green: 1 join either resolve blue: +1 combat resist to all	light	early	3 council		A skillful wizard could dispel this noxious gas...	structure, arcane	limbsnatcher			fuming_salts
+^			grey/ dark	early			Choking vapors pours out of holes in the wall, obscuring vision, and driving the heroes on.					
+Iridium Puzzlebox	Trap Weird	all: Any Council Heroes this Asset kills are kept as Hostages	light/ grey	late	2 council	2 both resolve	The curious box draws all eyes, grasping at the mind.	structure, arcane	limbsnatcher			iridium_puzzlebox
+^			dark	late	3 council	Madden 1 Council or 3 both resolve	The curious mind is enslaved by this wretched device.					
+Frenzied Cultists	Brutal Unholy		light	early	2 combat 2 order	2 front resolve	They stumble and clamor in a moaning fury.	minion, human	willbreaker			frenzied_cultists
+^			grey/ dark	early	5 combat 3 order	4 front resolve or Slay 1 order	They are overwhelmed with mad fury, throwing themselves at the foe.					
+Gloom Demon	Unholy Weird		light/ grey	early	1 order	1 either resolve	The palid creature slinks through the shadows.	minion, demon	willbreaker			gloom_demon
+^			dark	early	2 order 2 combat	2 either vitality 2 either resolve	A wan frame darts at the edge of vision.					
+Eye of Voth	Unholy	early: If anything dies in the early phase, the Eye of Voth resolves in the Late phase as though the Fate were Dark	light/ grey	early	2 order		A shadow of gloom is cast by this grim sigil.	structure	willbreaker			eye_of_voth
+^			dark	late	5 order	pierce (3/2) either resolve destroy for pierce (4/3) either resolve	The symbol blazes in the wall and all wilt before its terrible presence.					
+Circle of Bile	Unholy	all: All vitality damage dealt in this room is +1	light/ grey	early	2 order	Reduce the combat of the Heroes by half rounded down	A stench fills the room that churns the stomach.	structure	willbreaker			circle_of_bile
+^			dark	late	4 order	Deal half of the Heroes' combat rounded down for a maximum of 5 either vitality damage	Its wicked miasma snaps muscle and melts flesh.					
+Shrine of Mazarkan	Unholy		light	late		The Willbreaker must pay 1 Treasure or destroy this Asset	The shrine is foreboding, yet dormant.	structure	willbreaker			shrine_of_mazarkan
+^			dark/ grey	late	4 order	Kill 1 Hero, gain 1 Hostage	An unholy light enraptures the hapless soul.					
+Grasping One	Weird		light	late	2 barony	2 either resolve	Nameless and hungry it reaches out.	minion	planewarper			grasping_one
+^			grey/ dark	late	2 barony 1 council	Slay 1 front, gain hostage	A crushing, ineffable force seizes them. They are dragged away... but not unwillingly.					
+Formless Weeper	Weird, Unholy	trigger: Deal as much Resolve damage to the front rank as there are Heroes	light/ grey	late	2 council 3 combat	The damage may be changed to Vitality damage	Wretched and unspeakable thoughts cloud the Heroes' minds. They hold their swords to their hearts.	minion	planewarper			formless_weeper
+^			dark	late	2 council 4 combat	deal this damage also to the back rank	The Weeper yowls hideous curses. No one is safe.					
+Pulsing Gateway	Weird	trigger: [opt: Narrow > Wide] : Transport the Heroes to another Weird room that has not been visited	light/grey	early	3 council	1 either resolve	They rush through the light, blinding and terrible.	structure, arcane	planewarper			pulsing_gateway
+^			dark	late	5 council 	Kill 1 Hero	They creep in trepidation, but not all pass through.					
+Memetic Pattern	Weird	trigger: [opt: Soft<Hard] : Heroes in the front Rank cannot act this Room	light/grey	early	2 council	Council Heroes move to the front rank	The erudite cannot resist gazing into this alien image	structure, arcane	planewarper	enablers, generators, consumer		memetic_pattern
+^			dark	early	3 council	All Heroes move to the front rank	With grim fascination, all crowd around the strange picture					
+Mountain Stream	Weird	trigger: [opt: Soft>Hard; Wide>Narrow] : Capture a hero for each Bravery.	light/grey	late	5 council	The Heroes gain 2 Braveries	The Heroes rest for a moment by this alien, yet calming stream.	structure, arcane	planewarper			mountain_stream
+^			dark	late		-	This eerie stream with no evident source or outlet quickly drives the Heroes onward.					

@@ -1,0 +1,112 @@
+Card Name	Card Type	Value$$$	ACT deck	Picture description	Card text	Type	Who?	Comments
+HAPPENING								
+Butterfingers	Happening	-	Act 1	A robber drops his valuables	You dropped all your stuff you clumsy idiot. Discard a card		jek	
+Old Lockbox	Happening	-	Act 1	A rusty lockbox	The lock is broken. Search through the deck for an Item worth $ and take it. Discard the Lockbox and shuffle the deck.		jek	
+Renovation	Happening	- 	Act 1	A robber with a sledgehammer looks proud next to a broken wall 	If there are any, reveal any undiscovered rooms adjacent to the one you are in. Draw cards for discovering these rooms as normal.		jek	
+A Bug	Happening	- 	Act 1	A cute little beetle with puppy dog eyes	You are scared of bugs, run away. The previous player in turn order can move you up to two rooms away (You cannot discover new rooms.) Only take the effect of the room you stop in. 		jek	
+Deja Vu	Happening	-	Act 1	A close up of a robber's eyes with doors in them	You feel as though you remember this place. Reveal any two undiscovered rooms.		jek	
+Flood!	Happening	-	Act 1	Goo sprays from a sink and pipes burst.	Goo and muck spray from the pipes and flow through the halls! All players are Dirty and Wet and must discard all but 3 cards. Items hidden in Pockets are safe. 		jek	
+Imaginary Treasure!	Happening	-	Act 1		You're rich!! ...Or are you? The treasure you've collected vanishes to dust. All players must discard a Treasure card or $$$ worth of items. If you can't do either, you have no imagination.			
+Reverse Card!	Happening	-	Act 2		A card from a legally non-specific card game! Reverse the order of play.			
+Buttermist	Happening		Act 2		A mist of slippery butter fills the halls. All players must discard an item from the player to the left of them.			
+Imaginary Bugs	Happening	-	Act 2	A scared robber hiding under some blankets while a thought bubble above him shows a swarm of scary bugs	A swarm of angry bugs fill the room... Or do they? Either way you empty your pockets in a panic. All players must take all pocketed cards and play them immediately		jek	
+Pick Portals	Happening	-	Act 2	A bunch of thieves stealing from each other	A bunch of tiny portals appear around you, through which you can see pockets. All player's must attempt to steal an item from the player previous in turn order to them. Pockets are safe.		hoey	
+Lazy Genie	Happening	- 	Act 2	A tired-looking genie in casual clothes next to a surprised/confused robber holding his lamp 	Draw 3 cards, pick one and return the other two to the top of the deck in any order "Like, can we just do one wish today? I'm really not up for it right now"		alan	
+Snobby Shrubbery	Happening	-	Act 2	A small potted plant with a monocle and a long cigarette	A classy potted plant makes you self conscious, Discard your lowest value item. If you have nothing you feel unaccomplished as a robber, which causes you to lose your next turn.		jek 	
+Unstable Rocket Boots	Happening	-	Act 2		I can't turn them off! Pick a direction, move in that direction until you hit a wall, undiscovered room, or a room with another player.  		hoey	
+Imaginary Feast	Happening	-	Act 2	A robber eats an invisible feast. 	WOW so much food... Maybe?? All players must discard all food items and then draw as many cards as they discarded.		jek	
+Oh No, Commas!	Happening	-	Act 3	A comma	You accidentally forgot to import your card spreadsheet into a csv reader that can handle commas in data fields! Discard one Item card that has a comma somewhere in its text.		somn	
+Gravity Well	Happening	-	Act 3	A well sucks in robbers while saying "well well well"	Every player moves to the same space as the player who drew this card		jek	
+Down with the Quickness	Happening	-	Act 3	A robber with looney-tunes style whirlwind feet, zooming through a room, screaming.	The player to your left moves you 3 spaces, you suffer the effect of every room you pass. You cannot discover new rooms along the way			
+Whacky Wednesday	Happening	-	Act 3	A Calendar with wednesday circled and like confetti or something	Pick a player, swap spaces on the board, and trade all items. Pockets are safe.		hoey	
+Inanition!	Happening	-	Act 3	Robber, starved to the bone, in a foggy room	A cruel miasma of insatiability engulfs the room. Must... Consume... Everyone must discard two cards (including Pockets and cards in them).  		wyot;	 move differently, take from other players
+You are Cursed!	Happening	-	Act 3		I curse you! One day... You will die!			
+ITEM								
+One of a Kind Action Man!(tm) (1/2)	Item	$$$	Act 1	Generic superhero action figure	Wow! Mint condition! If more than one robber exits the mansion with this "one of a kind" figurine, it is worthless.	Plastic	wyot 	there are 3 of these. A: maybe extra value if you have the set
+One of a Kind Action Man!(tm) (2/2)	Item	$$$	Act 1	Generic superhero action figure	Wow! Mint condition! If more than one robber exits the mansion with this "one of a kind" figurine, it is worthless.	Plastic	wyot 	there are 3 of these. A: maybe extra value if you have the set
+Footstool	Item	$$	Act 1	Footstool, duh	There's something high up on that shelf... Discard this card to draw on card from the deck.	Tool	wyot	
+Dumpster Diving Instruction Booklet	Item	$$	Act 1	A worn and smelly booklet	You've mastered the coveted art of dumpster diving. Well you skimmed it anyway. Draw any card from the discard pile and then discard this card.	Paper	wyot	
+Golden Spray Paint	Item	-	Act 1	Spray paint can	Place this card on any item that is not already Gold. That item's value is now doubled. Place this card with the spray-painted card. They act as one card for the rest of the game. If discarded they become separated.	Treasure	wyot. 	A: Specify that this card is no longer value $$
+Gems of Mediocrity	Item	$$$	Act 1	Shiny jewels in a dirty wooden box that glows brown	It glows beige with the aura of okness. This item cannot be stolen because why would they even bother?	Treasure	jek	
+Nicer-Than-Average Shoes 	Item 	$$	Act 1	Nike-esque sneakers 	These shoes aren't amazing, but they're not bad either. You can move again on your turn.	Tool	alan	
+Bag of Stolen Goods	Item	$$$$$	Act 1	a burlap sack stuffed with random crap	Oh hey, somebody already collected this loot and put it in a bag! Because it is already loot stuffed in a bag, this item cannot be put in a Pocket.	Treasure	somn	
+Participation Trophy	Item	-$$	Act 1	a crumy little plastic sports trophy	Oh wow! This is worthless! On your turn, you can award another Robber in the same room as you with this trophy for participating in the break-in and give it to them.	Plastic	somn	
+Extremely Rare Trading Card	Item	$$$$	Act 1	pseudo-yugioh card looking thing	This is some really valuable cardboard! If you ever become Wet, discard this card.	Paper	somn	
+Globe with the Soviet Union on it	Item	$$	Act 1	globe clearly showing the USSR on it	It's outdated, but still a pretty nice globe	Treasure (with russian letters)	somn	
+Cool Shades	Item	$$$	Act 1	Cool Sunglasses	Block out the haters	Clothing	jek	
+Shiny Penny	Item	$	Act 1	A really shiny, new penny	Lucky find!	Treasure		
+Mis-Minted Quarter	Item	$$	Act 1	A quarter where washington has goofy glasses and a moustash	Oh, wow, coins with errors are actually pretty rare!	Treasure	somn	
+Shitty Fake Katana	Item	$	Act 1	A garbage looking japanese-style sword	Negate another players attempt to steal from you. (this may be played directly from a Pocket)	Weapons	somn	
+Sticky Gloves	Item	$$$$	Act 1	Gloves covered in some kind of slime	Your hands are so sticky! Whenever this card would be removed, keep this card and draw the top card from the discard pile. Discard without this effect if the player becomes WET.	Clothing	joeeeey	
+Claw Arm	Item 	$$$	Act 1	A toy claw arm	If you succeed a steal roll, you can steal from on of their Pocket. Discard after use	Tool		
+Stink Bomb	Item	$$	Act 1 		You may play this card directly from a pocket on anyones turn. When you use this card send any players in the same room as you to any room adjacent to you. You cannot discover new rooms this way.	Weapons	hoey	
+Smackomatic	Item	$$	Act 1	A crankable machine with a wooden arm and hand	If you are in a room with another robber you can make them discard a card of their choice. Keep this card	Weapons	Jek	
+Egard Fredman's Stinkonomics for the Modern World 3rd Edition	Item	$	Act 1	A textbook		Paper	somn	
+Book of the Church of Stan	Item	$$$	Act 1	A normal guy	Stan's a pretty chill guy. Play this to deny another player's steal. (after a successful roll)  	Paper 		
+Improbably Light Sedan	Item	$$$$$	Act 2	A robber lifts a car with ease	This improbably light car is a joy to drive, but it doesn't go very fast. Move again on your turn. This item is too big to fit in a Pocket.	Metal	jek	
+Adam Smith Doll	Item	$$$	Act 2	A creepy little doll holding a book that says "LAISSEZ-FAIRE" on it	You may swap cards of equal value with a player in the same room. Discard after use.	Toy		
+Sentient Computer	Item	$$	Act 2	a little iphone looking thing with a smug looking face on it	A computer with a personality. Unfotunately, it's a dick, and nobody wants it around. If you ever become Wet, you get electrocuted and must discard this card and two others.	Metal	somn	
+Super Sick Skateboard	Item	$$$	Act 2	A skateboard with a thermometer and an icepack 	The sickest board you've ever seen. Can't do any tricks but can roll very slowly until it gets tired. Move again on your turn.	Wood	jek. 	may eventually turn this into a cursed item
+Haunted Fedora	Item	$	Act 2	A fedora with a dark aura coming off of it	Not actually haunted. Just a terrible hat that reeks of hair grease	Clothing		
+Sacrificial Butter Knife	Item	$$$$	Act 2	A ceremonial butter knife dripping with butter	Discard two cards, draw one. Keep this card	Tool	joeeey	
+Jewelry of Niceness	Item	$$$$$	Act 2	A rack of nice gems that glow yellow	It glows yellow with the aura of light bouncing off of it. This item serves no purpose other than to look nice. 	Treasure	jek	
+Skellington Key	Item	$$	Act 2	A key made of bones with a little bowtie	This key is very charismatic. Discover a room of your choice and move to the that room. Then discard this card.	Tool	jek	
+Fasionable Hazmat Suit	Item	$$$$	Act 2	A dapper hazmat suit	For those occasions that are fun and radioactive. When you enter a room, play this card to negate its effect. Discard after use	Clothing		
+I Can't Believe It's Not Sacrificial Butter	Item	$$$	Act 2	A tub of margerine tied to a stone table	If you land on another player's space and they have Sacrificial Butter, you can steal it. Discard this card. 	Food	Jek- 	Maybe there should be an "I can't beilieve it's not the butter God"
+Devil's Roulette Ball 	Item	$$$	Act 3	small, matte black ball in a red devil hand wearing a white suit sleeve coming out of the shadows toward the viewer	at the start of your turn, trade this item with one random item from the player previous to you in turn order.	Magic	alan, 	Add room that unhaunts the card when the room appears. Ball moves in the opposite direction of play
+Dream Journal	Item	$$$$$	Act 3	A journal with a little dream catcher draw on it. 	Writing down your dream makes it real! Too real? You must draw from the bottom of the deck instead of the top as long you have this card. If anything Imaginary happens to you, you must discard this card.	Magic	jek	
+Eldritch Cod	Item	$$$	Act 3	A fish	A slimy fish. 	Food		
+Spork Shaped Key	Item	$	Act 3	A spork	This spork vibrates randomly. You hear the call of penguins in the distance. Swap the room your standing in with any other room in the house (anyone inside that room goes with it). Discard after use.	Magic	jek	
+Scepter	Item	$$$$	Act 3	A Kingly Scepter	Instead of moving, you may order another player to move instead, taking the affect of whatever room they land in. If you discover new rooms this way, you take the card.	Treasure		
+Diamond of Envy	Item	$$$$$-$$	Act 3	A single beautiful diamond ring that glows green	It glows green with the aura of greed. All of your items are now worth one extra $. If this card would otherwise be stolen it is instead discarded.	Treasure	jek	
+Necronomiblog	Item	$$$$$	Act 3	A "screenshot" of a blog that says: "Hey all you cool Shoggoths..." 	Gain insight into the secrets of the undead! It's mostly recipes. Haunt or unhaunt yours or another player's card. Discard after use.	Magic	jooee	
+Photocopier	Item	-	Act 3	A weird photocopier with glowing eldritch symbols all over it 	If this card is in your hand at the end of the game, double the value of a single item in your hand.	Magic	alan	
+POCKET   								
+Crusty Sock	Pocket	-	Act 1	A dank-ass sock.	No one wants to look in here. A Pocket.	Pocket	wyot; 	pocketses
+A Plastic Bag Filled With Plastic Bags	Pocket	-	Act 1	A bag filled with bags	This one counts as 2 Pockets because of all the extra bags!	Pocket	jek	
+Hidden Jean Pocket	Pocket	-	Act 1	A pocket	You've had this the whole time. Why can I only use it now? A Pocket	Pocket	Hoey	
+Grocery Store Tote Bag	Pocket	-	Act 1	A tote bag with apples and shit on it	A Pocket. Food hidden here at the end of the game is worth double.	Pocket	jek	
+Big Scary Coat	Pocket	-	Act 2	A big scary coat on a coat hanger	You can keep all kind of shady stuff in here. A Pocket	Pocket		
+Moving Box	Pocket	-	Act 2	A box with little feet that says "Insmuth Movers" on it	A Pocket. If there is no item hidden here you can move again on your turn.	Pocket		
+Super Secret Hiding Place	Pocket	-	Act 2	A question mark	Shhh don't tell anyone! Hide a card here.	Pocket		
+Under the Matress	Pocket	-	Act 2	A matress with a pile of cash bursting from under it	Banks are a construct of the bourgoisie! A Pocket	Pocket	hoey	
+Mimic chest	Pocket	-	Act 3	A chest with teeth in it	A Pocket. You must discard a card to remove it from the pocket.	Pocket	hoey	
+Alien Skin-Flap	Pocket	-	Act 3	flat-fish looking alien latching onto a robber	The hideous monster leaps from the shadows and latches onto you! It seems friendly enough. You can hide an item in here, but it won't give it back until the end of the game. A Pocket	Pocket		
+HAUNTED   								
+Dirty Silverware	Haunted	-$$	Act 1	forks and knives covered in gunk and grime	The owners of this place don't do the dishes apparently. Mysterious Goo is getting on your stuff. Take them to the kitchen to clean them, turning them into Nice Silverware. 	Haunted	jek	
+Nice Silverware	Unhaunted	$$		Shiny forks and knives	Real silver! The knives are sharp and the forks are perfect for twirling spaghetti. If you get dirty, turn them back into Dirty Silverware.	Unhaunted	jek	
+Puzzling Puzzle Peice 1/3	Haunted	-$$$	Act 1	A peice of a puzzle that appears to be a picture of a monster	The monster in the picture seems angry! Collect all three to unhaunt all of them. They cannot be stolen.	Haunted	Mayth	
+Puzzling Puzzle (1)	Unhaunted	$$$$		A finished puzzle with a picture of a monster	Pretty picture!	Unhaunted	mayth	
+Puzzling Puzzle Peice 2/3	Haunted	-$$$	Act 2	A peice of a puzzle that appears to be a picture of a monster	The monster in the picture seems angry! Collect all three to unhaunt all of them. They cannot be stolen.	Haunted	Mayth	
+Puzzling Puzzle (1)	Unhaunted	$$$$		A finished puzzle with a picture of a monster	Pretty picture!	Unhaunted	mayth	
+Puzzling Puzzle Peice 3/3	Haunted	-$$$	Act 3	A peice of a puzzle that appears to be a picture of a monster	The monster in the picture seems angry! Collect all three to unhaunt all of them. They cannot be stolen.	Haunted	Mayth	
+Puzzling Puzzle (1)	Unhaunted	$$$$		A finished puzzle with a picture of a monster	Pretty picture!	Unhaunted	mayth	
+Picture of Gregory Green	Haunted	-$$$$	Act 2	A torn painting of a creepy young guy with glowing green eyes	This picutre is so scary! You think it keeps taking your things, but you feel younger when you have it. You can move again during your turn. Take to the portrait hall and discard a weapon to unhaunt.	Haunted		
+Regular Painting of an Old Guy	Unhaunted	$$$$$		A painting of a nice old man	This picture is so boring! But a famous painter signed it so it's worth more.	Unhaunted		
+Beard Nexus	Haunted	-$$ 	Act 2	A galaxy with a scruffy beard	The unkempt dreams of trillions throughout the multiverse calls to you. It's breath kinda smells. Collect the Shitty Fake Katana and the Haunted Fedora to unhaunt this item.	Haunted		
+White Knight	Unhaunted	$$$$$		A Knight in shining armour holds a katana in one hand and wears a fedora over his helmet	This gallant knight comes to the aid of all, whether they want it or not. Instead of moving, you may teleport to another players space. While on another players space you may sacrifice an item to get into their pockets, stealing a hidden item of your choice. 	Unhaunted		
+Pocket Sand	Haunted	$$$	Act 2	Disgruntled robber with pockets full of sand	This item must either occupy a Pocket, or you must discard it. This card can be brought to the Bathroom or the Laundry Room to be turned into a Sack of Sand.	Haunted		
+Sack of Sand	Unhaunted	$$$		The sack of sand that Idaho Jim used to steal the Idol	On your turn, you may swap this item with a Treasure in another player's hand. When you receive this item, flip it over to Pocket Sand and put it in a Pocket. Adios, señor.	Unhaunted	wyot;	 take from other players, give to other players
+Rotten Egg	Haunted	-$$	Act 2	Gross Egg	This egg can be brought to the Hatchery to turn into the Golden Goose. 	Haunted	wyot	
+Golden Goose	Unhaunted	$$$$$-$$		Honking golden goose	This noisy jerk is worth a lot, but subtract one from future steal rolls 	Unhaunted	wyot	
+Talking Fish Prophet	Haunted	$$$$	Act 2	one of those mechanical singing wall fish things looking all weird and mystical	Haunted. Before drawing cards on your turn, you can choose to consult the Fish Prophet. When you do, change this card into the Silent Fish Prophet. Then, you may look at the top three cards of the deck and put them back in any order.	Haunted	somn	
+Silent Fish Prophet	Unhaunted	$		one of those mechanical singing wall fish things looking very normal	Unhaunted. The Fish Prophet has Spoken, and shall Speak no more.	Unhaunted	somn	
+Ace in the hole	Haunted	$$$	Act 2	TBD	TBD	Haunted		
+Hole in the Ace	Unhaunted	$ 		TBD	TBD	Unhaunted		
+Living Furnace	Haunted	$	Act 2	A furnace with a face	Discard a Flammable Item to draw two cards. Can be used any amount of times. Unhaunt if player becomes Wet.	Haunted	hoey	
+Doused Furnace	Unhaunted	$$$$		A cold furnace	Does nothing. Rehaunt if the player becomes burnt.	Unhaunted	hoey	
+The Maiden	Haunted	-$$$	Act 2	TBD	TBD	Haunted		
+And the Hag	Unhaunted	$$$		TBD	TBD	Unhaunted		
+Enchanted Eyewear	Haunted	-$$	Act 2	Glasses with angry eyes behind them	These glasses make your vision terrifyingly sharp. You can see atoms. Entering the Dark Room to turn this card to the Nonchanted Eyewear	Haunted		
+Nonchanted Eyewear	Unhaunted	$$		Glasses 	These glasses are not your perscription. Everything is a little blurry, but at least they're worth something now	Unhaunted		
+Sacrificial Butter	Haunted	$$	Act 3	Butter tied to a stone table	Sacrilicious! Discard the Sacrificial Butter Knife to summon the Butter God.	Haunted		
+Butter God	Unhaunted	$$$$$		A monster made of butter	You now control the Butter God. Every player but you must discard one item of your choice. Discard this card after use.	Unhaunted		
+Sarcophagus	Haunted	-$	Act 3	A egyptian sacrophagus	I wonder what's inside... Unhaunt at any time	Haunted	hoey	
+The mummy's curse	Unhaunted	$$$$$-$$		an angry mummy	At the start of your turn, discard any card with a value >= 0. This card cannot be stolen, removed or hidden. 	Unhaunted	hoey	
+Dimensional Purse	Haunted	$$$$$	Act 3	A purse with a galaxy inside it	A cute and trendy handbag that grants access to your own universe. 	Haunted	jek	
+Regular Purse	Unhaunted	-$		A purse with nothing inside of it	I guess it was the pocket dimension that made it cute. Discard cards that add up to at least $$$$$ to switch it to the Dimensional Purse	Unhaunted	jek	
+Chapter								
+Gobbling Ghosts	Chapter	$$$$	Act 1	Ghosts wander the halls as robbers hide	Hungry ghosts begin to appear in the halls! Very scary! If it hasn't already been done, take the Act 2 deck and shuffle it with Act 1. Each player must place a Ghost token on a room. If you land on a room with a ghost token, you must sacrifice a card to leave the room. The first player to make it to the graveyard with a haunted item (in their haunted state) banishes the ghosts and can take this card as a prize.			
+Fluid Floor	Chapter	$$$$$-$	Act 2	A bluprint stands like the carpet from alladin	The floor rumbles and the house begins to shift. If it hasn't already been done, take the Act 3 deck and shuffle it in with the others. At the beginning of each players turn, they must take a room and move it anywhere else that is adjacent to another room. The first player to discover the last room in the house banishes this card and takes it as a prize. If the whole mansion has already been discovered, play rock paper scissors to see who wins.			
+FINALE: Carl Thulu Comes Home	Chapter	-	Act 3	A tentacle faced man stands silhouetted in a doorway	Dr. Carl Thulu has returned from the night shift! He's very tired and irritable. After you've finished reading this card, put it adjacent to any room on the edge of the house. This is the Front Door. If you land on this space you are free! Take the Dr Thulu Piece and put it on this card. At the start of each players turn, they must move Dr Thulu 2 spaces. If you start your turn adjacent to the room Dr Thulu is in, he grouchily disintegrates you, removing you from the board (you can still take your turn moving Dr Thulu). Once all players have either escaped or been disintegrated, the heist is over! (if you escape, add $$$ to your final total, if you get disintegrated, count up your money normally. Just because your a pile of ash doesn't mean you can't win)			
+Secret Backstory								

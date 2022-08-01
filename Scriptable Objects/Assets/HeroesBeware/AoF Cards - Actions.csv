@@ -1,0 +1,17 @@
+	name	domain	phase	effect	flavor	architect	starter	copies	image		
+	Yoke Them with the Beasts	world		Spend 2 Thralls, refresh a Soldier Assets that act Early.	Wretches toil to keep soldiers marching.	thralltaker	TRUE	2			
+^	Form Them into Ranks	battle	Early / Late	Spend 2 Thralls, deal 1 Front	Feeble fighters are pushed to the front.	thralltaker	TRUE	2			
+	Set Them Loose	world		Raze a Region adjacent to a Region you Occupy, but you must spent Soldier Assets equal to the Settlement's Level.	Raiders run wild, pillaging and spoiling all.	thralltaker	TRUE	2			
+^	Ambush	battle	Advance	Grant 🌫2 to all Soldiers Assets that act Early.	Concealment brings surprise, and surprise survivability.	thralltaker	TRUE	2			
+	Horn of Dread	world		Occupy as though the target Settlement has one fewer Faction Power	Towers quake and foundations quiver as the Horn shakes all.	thralltaker	TRUE	2			
+^	Baleful Bellow	battle	Any	😬	A hollow cry rises from the killing horde, shattering resolve.	thralltaker	TRUE	2			
+	Supply Train	world		Treat an unoccupied wilderness or desolated region adjacent to a region you occupy as though you occupy it for the rest of this round	Baggage trains and forced marches bring the armies across great distances.	thralltaker	TRUE	2			
+^	Reinforce	battle	Advance	Bring an extra Asset into one battle	Flexible command and independent officers allow troops to go where they're needed.	thralltaker	TRUE	2			
+	Order is Security	world		Choose a region adjacent to one you Occupy with unmobilized Faction Power. Spend one dread to mobilize one of those Faction Power and gain 2 Thralls.	The huddled masses choose safety over freedom, shuffling towards a short lifetime of servitude.	thralltaker	TRUE	2			
+^	Terrify	battle	Assignment	Spent 1 Dread to choose one Hero to not act this Phase. Spend 3 dread to act on a Legend.	A foreboding reputation and dreadful presence can cool even the hearts of the valiant.	thralltaker	TRUE	2			
+	Threats and Promises	world		Get a bunch of temporary dread. you must recoup that amount this turn. any left over will count as double dread loss	Words drive action, but deeds must follow.	thralltaker	TRUE	2			
+^	That Went So Well, Guys	battle	Retreat	Recover Dread from one wagering pool as though it had not been wagered.	I mean - haha - like - I totally meant for that to happen!	thralltaker	TRUE	2			
+	Ditches and Towers	world		spend thralls to ensure an occupied region you control can't be attacked during the hero phase?	Labor brings security, and their bones shall fill the walls.	thralltaker		1			 
+^	Chosen Warriors	battle	Advance	Wager amount X up to 3 Dread and apply 🔵 and 💪 to a unit for the first round. For the first round of an encounter, if the chosen unit contributes to killing one Hero regain X Dread. For any more Heroes killed gain X Dread once.  	The Chosen fight for glory, and bring it for their master.	thralltaker		1			
+	Fog of War	world		Trigger Legend reactions as though you were taking an Occupy action against a region you could Occupy, and then take an Occupy action against a different region.	Can it be called blindness to see what is not there?	thralltaker		1			
+^	Evasive Action	battle	Assignment	Choose 2 Heroes to not attack this round, and apply 😬.	Oogly boogly can't fuckkin touchit. THE OL SLIPEROO	thralltaker		1			

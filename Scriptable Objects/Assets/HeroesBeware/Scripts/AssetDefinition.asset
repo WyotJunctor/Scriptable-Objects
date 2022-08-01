@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df825b5779d5c6c49920c279e4edac22, type: 3}
+  m_Name: AssetDefinition
+  m_EditorClassIdentifier: 
+  cardTypeName: ASSET
+  componentItems:
+  - fieldName: name
+    cardComponents:
+    - componentName: title
+      cardComponentType: 0
+  - fieldName: constant effect
+    cardComponents:
+    - componentName: c_effect
+      cardComponentType: 0
+  - fieldName: fate
+    cardComponents:
+    - componentName: fate_1
+      cardComponentType: 0
+  - fieldName: activation
+    cardComponents:
+    - componentName: activation_1
+      cardComponentType: 0
+  - fieldName: target order
+    cardComponents:
+    - componentName: order
+      cardComponentType: 0
+  - fieldName: resistance
+    cardComponents:
+    - componentName: resistance_1
+      cardComponentType: 0
+  - fieldName: effect
+    cardComponents:
+    - componentName: effect_1
+      cardComponentType: 0
+  - fieldName: flavor
+    cardComponents:
+    - componentName: flavor_1
+      cardComponentType: 0
+  - fieldName: tags
+    cardComponents:
+    - componentName: tags
+      cardComponentType: 0
+  - fieldName: architect
+    cardComponents:
+    - componentName: card_color
+      cardComponentType: 2
+    - componentName: gradient
+      cardComponentType: 2
+  - fieldName: image
+    cardComponents:
+    - componentName: image
+      cardComponentType: 1
+  - fieldName: fate^1
+    cardComponents:
+    - componentName: fate_2
+      cardComponentType: 0
+  - fieldName: activation^1
+    cardComponents:
+    - componentName: activation_2
+      cardComponentType: 0
+  - fieldName: resistance^1
+    cardComponents:
+    - componentName: resistance_2
+      cardComponentType: 0
+  - fieldName: effect^1
+    cardComponents:
+    - componentName: effect_2
+      cardComponentType: 0
+  - fieldName: flavor^1
+    cardComponents:
+    - componentName: flavor_2
+      cardComponentType: 0

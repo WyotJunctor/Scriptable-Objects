@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df825b5779d5c6c49920c279e4edac22, type: 3}
+  m_Name: ActionDefinition
+  m_EditorClassIdentifier: 
+  cardTypeName: ACTION
+  componentItems:
+  - fieldName: architect
+    cardComponents:
+    - componentName: card_color
+      cardComponentType: 2
+    - componentName: ow_card_gradient
+      cardComponentType: 2
+    - componentName: b_card_gradient
+      cardComponentType: 2
+  - fieldName: name
+    cardComponents:
+    - componentName: ow_title
+      cardComponentType: 0
+  - fieldName: effect
+    cardComponents:
+    - componentName: ow_effect
+      cardComponentType: 0
+  - fieldName: flavor
+    cardComponents:
+    - componentName: ow_flavor
+      cardComponentType: 0
+  - fieldName: starter
+    cardComponents:
+    - componentName: starter
+      cardComponentType: 3
+  - fieldName: name^1
+    cardComponents:
+    - componentName: b_title
+      cardComponentType: 0
+  - fieldName: phase^1
+    cardComponents:
+    - componentName: phase
+      cardComponentType: 0
+  - fieldName: effect^1
+    cardComponents:
+    - componentName: b_effect
+      cardComponentType: 0
+  - fieldName: flavor^1
+    cardComponents:
+    - componentName: b_flavor
+      cardComponentType: 0

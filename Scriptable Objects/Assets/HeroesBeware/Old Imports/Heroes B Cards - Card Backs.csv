@@ -1,0 +1,17 @@
+group	symbol	
+thralltaker	assets	diamond
+willbreaker	assets	diamond
+planewarper	assets	diamond
+limbsnatcher	assets	diamond
+thralltaker	actions	circle
+willbreaker	actions	circle
+planewarper	actions	circle
+limbsnatcher	actions	circle
+thralltaker	rooms	box
+willbreaker	rooms	box
+planewarper	rooms	box
+limbsnatcher	rooms	box
+barony	strategies	triangle
+council	strategies	triangle
+guild	strategies	triangle
+order	strategies	triangle

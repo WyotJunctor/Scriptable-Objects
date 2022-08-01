@@ -1,0 +1,12 @@
+name	auras	slots	phase	effect	flavor	architect	image
+Slaughterhouse	Brutal	2	all	For each Hero or Minion that dies in this room, the Thralltaker gains one Treasure.	Blood soaks the walls and floors. Perhaps the Heroes may contribute...	thralltaker	slaughterhouse
+Arena of Voth	Brutal Unholy	1	entrance	In this room, a Soldier Minion may resolve combat with a Hero or Legend as though they were the only ones in the room. Gain 1 Treasure for Killing a Hero, or 3 for Killing a Legend.	Chants echo from the grated floor. Two enter, one leaves.	thralltaker	arena_of_voth
+The Serpent's Maw	Trap	2	all	No Minions may be placed in this room. All Heroes require 1 less Vitality damage to be killed in this Room.	A corrosive acid that eats through armor and flesh drips from the ceiling.	limbsnatcher	the_serpents_maw
+Slotted Hall	Trap	1	all	All Traps in this Room have their Guild and Combat Resistance increased by 1	Reinforced and locked in place, the insidious mechanisms of this room will bedevil the Heroes.	limbsnatcher	slotted_hall
+The Crusher	Trap	3	exit	Destroy every Asset in this Room, but if at least two assets acted in the Late Phase, also Slay 2 Heroes	Bone, metal, and guts... All ground to dust by this cruel machination.	limbsnatcher	the_crusher
+Howling Halls	Unholy	2	all	All Heroes require 1 less Resolve damage to be killed in this Room.	Taunts, curses, and shrieks of the damned... Even the most fortified mind is weakened.	willbreaker	howling_halls
+Blood Pools	Unholy	2	all	For each Hero or Minion that dies in this room, the Willbreaker gains one Hostage.	The crimson baths bubble and broil... Thermae for corpses.	willbreaker	blood_pools
+Reversing Hall	Weird	2	entrance	Assets targeting the Front rank target the Back rank, and Assets activating Early activate Late and vice versa.	˙uʍop sı dn 'ʇɥbıɹ sı ʇɟəl 'pɹɐʍʞɔɐq sı pɹɐʍɹoɟ	planewarper	reversing_hall
+Endless Stairs	Weird	1	exit	[opt: Soft>Hard] you can resolve this room again. if you can manage to trap the Heroes in a stable infinite loop, you (may) defeat the Incursion, but remove this room from the dungeon	The Heroes can ascend all they want... They are going nowhere.	planewarper	endless_stairs
+The Numbing Void	Weird	2	all	No damage can be dealt here, only neutral fate, next room choose ignores prefs	...	planewarper	the_numbing_void
+The Yawning Hole	Weird	1	fate	The Fate die is set to Dark as the roll	The gaping, alluring cavity clouds the mind and numbs the flesh.	planewarper	the_yawning_hole

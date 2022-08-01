@@ -1,0 +1,17 @@
+name	phase	fate1	flavor1	fate2	flavor2	bonuses	faction	image
+Wall Breach	entrance	light, grey: Destroy one structure, choose a minion to act late	Kaboom! The wall crumbles from the heroes' assault.	dark: Destroy one structure, choose 2 heroes to not act	The heroes stumble over the debris.	Reorient	Barony	
+Surge of Bravery	entrance	light: all minions act late, guards +2, braveries +2		grey, dark: guard +1, bravery +1			Barony	
+Shield Wall	all	light, grey: can't deal damage to back row		dark: can't deal damage to back row, and back row does nothing		Reorient	Barony	
+Brutal Charge 	entrance	light: all minions act late, destroy all guards		grey, dark: destroy all guards		1 combat per guard, +2 barony	Barony	
+Reckless Abandon	entrance	light, grey: all minions act late, destroy all braveries		dark: destroy all braveries		1 combat per brave + 2 guild	Guild	
+Lucky Passage	entrance	light: braveries +2 and skip the room		grey, dark: skip the room		Reorient	Guild	
+Extra Planning	entrance	light: draw and resolve a second strategy card braveries +2 and guards +2		grey, dark: draw and resolve a second strategy card		Reorient	Guild	
+Unlikely Allies	entrance, exit	light, grey: add a Mook for  every Faction Power above X		dark: Same as above, but the extra Heroes are felled in the Exit Phase. Shatter all braveries and deal 1 resolve damage for every Hero felled this way.		Reorient	Guild	
+Portal	hero	light, grey: after this Phase, navigate to the next room, ignoring mission preferences. Begin resolving the next room starting with the Hero Phase, and cause all Assets to act Late.		dark: shatter a guard or bravery. Same as above, but begin resolving the next room in the Early Phase and all Assets act Early.		Reorient	Council	
+Protective Ward	entrance	light: guards + 1 and all vitality damage is ignored		grey, dark: guards + 2 and ignore all vitality damage, but heroes cannot destroy assets		Reorient	Council	
+Fireball	entrance	light, grey: choose one asset in the room to destroy. must have less than <some amount> resistance. generate guard		dark: destroy an asset, and kill one hero in the front rank		1 Council and 1 Guild for traps	Council	
+Parting Shot	exit	light: resolve the Hero Phase a second time		grey, dark: Council Heroes resolve the Hero Phase a second time			Council	
+Smite	entrance	light: choose one asset in the room to destroy. must have less resistance than Order power, generate bravery	A flare of awesome power envelops an artifact of evil and leaves a pile of ash	grey, dark: choose one unholy asset in the room to destroy, must have less than <some amount> resistance		1 Order	Order	
+Calming Prayer	entrance	light, grey: braveries +1 and all resolve damage is ignored		dark: braveries + 1		Reorient	Order	
+Brief Respite	entrance	light, grey: guards +2, braveries +2		dark: nothing (just reorder)		Reorient	Order	
+Bless	entrance	light, grey: can't deal vitality damage to front row		dark: make neutral fate		Reorient	Order	

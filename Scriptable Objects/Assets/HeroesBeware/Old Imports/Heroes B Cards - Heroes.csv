@@ -1,0 +1,13 @@
+name	resolve	vitality	front	back	faction	front_image	back_image
+Fighter	2	4	Barony, Combat *	Combat	Barony	fighter_front	fighter_back
+Ranger	2	3	Barony, Barony	Barony, Combat *	Barony	ranger_front	ranger_back
+Commander	2	2	Barony, Combat *	Barony, Barony	Barony	commander_front	commander_back
+Paladin	4	2	Order, Combat *	Order	Order	paladin_front	paladin_back
+Cleric	3	2	Order, Order	Order, Combat *	Order	cleric_front	cleric_back
+Priest	2	2	Order, Order	Order, Order *	Order	priest_front	priest_back
+Thief	3	3	Guild	Guild, Combat *	Guild	thief_front	thief_back
+Assassin	2	3	Guild, Combat *	Guild, Guild	Guild	assassin_front	assassin_back
+Bard	2	2	Guild, Guild	Guild, Combat *	Guild	bard_front	bard_back
+Magus	3	3	Combat	Council, Combat *	Council	magus_front	magus_back
+Sage	3	2	Council, Combat *	Council, Council	Council	sage_front	sage_back
+Warder	2	2	Council, Council *	Council, Council	Council	warder_front	warder_back

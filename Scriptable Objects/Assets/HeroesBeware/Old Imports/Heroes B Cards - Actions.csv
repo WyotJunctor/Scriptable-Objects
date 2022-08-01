@@ -1,0 +1,77 @@
+name	auras	phase	effect	flavor	cost	architect	starter	copies	image
+Flank	Brutal	early, late	Make a Minion's attack happen in the Rank of your choosing	side		thralltaker	TRUE	2	flank
+Withdrawal	Brutal	early, late	If a Minion would be Destroyed, instead retreat it to your Lair	back		thralltaker	TRUE	2	withdrawal
+Stalk		exit	Pierce (2/3) Back Vitality damage to one non-Barony Hero	boo		thralltaker	TRUE	2	stalk
+Bellow		early, late	2 join either resolve damage	BOO		thralltaker	TRUE	2	bellow
+Thrall		early, late	Spend one Hostage and add this card as a Minion into the current Room, which attacks during this Phase. any fate: 2 front vitality damage + 1 per Hostage paid (max of 3) or 2 join front vitality damage	He protec		thralltaker	TRUE	1	thrall
+Recall	Brutal	entrance	Return a Minion from anywhere in the Dungeon to your Lair	BACK		thralltaker	TRUE	1	recall
+Deploy		entrance	Place a Minion from your Lair into any Room in the Dungeon, regardless of Aura and Slot limitations. if this Minion is alive at the end of the Incursion Phase, return them to your Lair.	He attac		thralltaker			deploy
+Vigour		entrance	A minion acts both Early and Late	haya		thralltaker			vigour
+Repulse		early	If two minions act in the Early Phase, skip the remaining phases and move the party into an adjacent room, ignoring mission preferences.	poosh		thralltaker			repulse
+Charge		early,late	1 Join Front Vitality, 2 Join Front Vitality if joining a soldier			thralltaker			charge
+Joint Strike		early,late	Make one soldier's non-Join Vitality attack into a Join attack.			thralltaker			joint_strike
+Pact of Denial		early,late	Replace a soldier minion's action with the following: up to 3 Heroes do not act in this Room.			thralltaker			pact_of_denial
+Bar the Door		entrance	If the Heroes have less than 5 Barony strength or 10 Combat strength, redirect the Heroes to a Room of your choice and do not draw a Strategy in that Room.			thralltaker			bar_the_door
+Third Wind		early	Cause all soldier Minions to act twice.			thralltaker			third_wind
+Poisoned Blades		early,late	Convert any soldier Minion's Piercing attack into a Slay attack.			thralltaker			poisoned_blades
+Meat Shields		hero	For each Hostage spent up to a maximum of 4, add 2 Combat Resistance to an Asset in this Room, and deal 2 Either Resolve Damage.			thralltaker			meat_shields
+Feigned Surrender		entrance	Give 3 Braveries and 3 Guards. All Minions in this Room act in the Exit Phase twice. Skip to the Exit Phase.			thralltaker			feigned_surrender
+Collective Punishment		early,late	If a Thralltaker Minion activated in this Phase does not kill any Heroes, Destroy that and another Minion to deal Pierce (4/3) Either Vitality Damage.			thralltaker			collective_punishment
+Corpse Desecration		early,late	When a Hero is Killed by a Minion, deal Pierce (2/2) Either Resolve Damage.			thralltaker			corpse_desecration
+Loot		early,late	When a Hero is Killed, gain 1 Treasure	goo goo		limbsnatcher	TRUE	2	loot
+Advanced Trigger		entrance	Make a trap act both Early and Late	gaga		limbsnatcher	TRUE	2	advanced_trigger
+Blowdarts		early, late	1 join either vitality damage, and cause the target Hero not act in this Room's the Hero phase.	uh oh		limbsnatcher	TRUE	2	blowdarts
+Hands!		early, late	1 join either resolve Damage, and cause the target Hero to not act in this Room's Hero phase	stinkyyy		limbsnatcher	TRUE	2	hands
+Acid Spray		early	If no Minion acts in this Phase, deal two 2 Front Vitality Damage attacks			limbsnatcher	TRUE	1	acid_spray
+Slick Lacquer		entrance	Shuffle all up to 4 Hero positions			limbsnatcher	TRUE	1	slick_lacquer
+Corrosive Touch		any	Make one structure's Vitality Damage attack Piercing (X/X)			limbsnatcher			corrosive_touch
+Controlled Demolition		entrance	Select a Minion. They make a Trap in the same Room act Early. Destroy that Minion			limbsnatcher			controlled_demolition
+Chain Reaction		any	If a trap affects a Hero, immediately trigger another trap as if it occurred in the same phase			limbsnatcher			chain_reaction
+Trap Map		entrance	If minions would normally be affected by a trap or room, they are not			limbsnatcher			trap_map
+Shiny Distraction		exit	Capture one Guild Hero			limbsnatcher			shiny_distraction
+Called Hit		exit	Pierce (1/2) Back Vitality damage to one non-Guild Hero. Increase the damage by 1 for each Treasure paid, up to a maximum of 2 Treasures.			limbsnatcher			called_hit
+Potion X		hero	Double a Hero's strength, but they will be Killed at the end of the Hero Phase.			limbsnatcher			potion_x
+Stinking Ooze		early	If there are no Braveries, cause half of all Heroes (up to 5) to not act in the Hero Phase.			limbsnatcher			stinking_ooze
+Sticky Resin		early,late	Cause one trap to affect 2 Heroes at once			limbsnatcher			sticky_resin
+Midnight Surprise		hero	When a trap would be Destroyed, deal Pierce (3/2) Front Vitality Damage			limbsnatcher			midnight_surprise
+Deja-Vu		early	Resolve an Asset from a previously-visited Room as part of this Room			limbsnatcher			deja_vu
+Numbing Gas		hero	Allow all Minions Destroyed in the Hero Phase that would act in the Late Phase to act before they are Destroyed.			limbsnatcher			numbing_gas
+Cheap Shot		early,late	Deal 1 Join Back Vitality Damage			limbsnatcher			cheap_shot
+Dimness		fate	Change the Fate Die to Neutral			willbreaker	TRUE	2	dimness
+Darkness		fate	Change the Fate Die to Dark			willbreaker			darkness
+Wrath		entrance, early, late, exit	1 join either resolve damage or 1 join either vitality damage			willbreaker	TRUE	2	wrath
+Fury		entrance, early, late, exit	2 join either resolve damage or 2 join either vitality damage			willbreaker			terror
+Soulsteal		any	When a Hero is Killed, gain a Hostage			willbreaker	TRUE	2	soulsteal
+Soulrend		any	When a Hero is Killed, gain 2 Hostages, or when a Legend is Killed, gain 3 Hostages			willbreaker			soulrend
+Hex		early, late	Deal 2 Vitality damage to a non-Order Hero			willbreaker	TRUE	2	hex
+Curse		any	Madden one non-Order Hero			willbreaker			curse
+Omen		any	When a Hero falls, deal 2 resolve damage to a Hero in the same row			willbreaker	TRUE	1	omen
+Doom		any	When a Hero falls, deal Pierce (3/2) Either resolve damage			willbreaker			doom
+Falter		entrance, early	Cause one Hero to not act in this Room			willbreaker	TRUE	1	falter
+Doubt		entrance, early	Cause one Hero to not act in the Room and to use its Combat Strength as Vitality Damage against another Hero			willbreaker			doubt
+Bloodforce		early, hero, late	Convert a Minion's Combat Resistance to a Vitality Damage attack, and Destroy it at the end of the Room			willbreaker			bloodforce
+Debt		any	If a Hero would be Killed, they survive, and another Hero is Killed instead			willbreaker			debt
+Whispers		early, late	If no minion is in the room, Pierce (3/2) Either Resolve Damage			willbreaker			whispers
+Frantic Release		early,late	Spend up to 3 Hostages. For each Hostage spent, deal 2 Front Vitality Damage.			willbreaker			frantic_release
+Rite of Blood			Spend up to 3 Hostages. For each Hostage spent, deal 1 Join Either Vitality Damage.			willbreaker			rite_of_blood
+Demonic Strength		entrance, early, late, exit	Give a demon 4 vitality damage			willbreaker			demonic_strength
+Hunger of Fiends		late	Replace one demon Minion's action with the following: Capture up to 2 Heroes	this is vore		willbreaker			hunger_of_fiends
+Focus | Transfix		entrance, early	[Narrowing <-] | [Narrow <-- Wide]: Prevent a Hero from acting in this Room			planewarper	TRUE	2	focus_transfix
+Gaze | Convulse		entrance, early	[Widening ->] | [Narrow  --> Wide]: Randomize the position of any number of Heroes in a given Rank			planewarper	TRUE	2	gaze_convulse
+Mollify | Sublimate		entrance, early	[Softening <-] | [Soft <-- Hard]: All Asset combat Resistances decrease by 1, and shatter all Guards			planewarper	TRUE	2	mollify_sublimate
+Burden | Amalgom		any	[Hardening ->] | [Soft --> Hard]:  Allow an attack to target any number of Heroes in a single row as a single target, combining their Vitality and Resolve			planewarper	TRUE	2	burden_collapse
+Shift | Heave		entrance	[Softening <-]: Shift a Hero into the opposite Rank | [Narrowing <- ; Soft --> Hard]: Move each Hero into whichever Rank you choose			planewarper	TRUE	1	shift_heave
+Ripple | Warp		any	[Narrowing <-]: Make an asset resolve in a different Phase | [Narrow <-- Wide]: Choose the order of resolution for all Assets and Heroes for this Room			planewarper	TRUE	1	ripple_warp
+Disruption | Alignment		fate	[Widening ->]: Reroll the Fate die for the purposes of manipulating resonance | [Narrowing <-]: Set the Fate die to anything			planewarper			disruption_alignment
+Bend | Swap		entrance	[Hardening ->]: Force the party to skip interacting with an Asset and instead interact with another Asset in the Room twice | [Soft --> Hard]: Swap any two Assets in the Dungeon			planewarper			bend_swap
+Seam | Tunnel		traversal	[Hardening ->]: Force the Party to path as though a particular Room does not exist | [Soft --> Hard]: Cause the Heroes to travel to any other Room in the dungeon			planewarper			seam_tunnel
+Facerip | Mindrip		any	[Softening <- ; Widening ->]: Shift a Hero to a different Hero Type from its Faction | [Soft --> Hard ; Narrow <-- Wide]: Shift a Hero to a different Hero Type of any Faction			planewarper			facerip_mindrip
+Twisted Plans | Inception		fate, entrance	[Widening ->]: Look at the top card of the Hero Strategy deck. Choose to place it at the top or bottom of the deck | [Narrow --> Wide]: Discard the current Hero Strategy and replace with a new one of your choice.			planewarper			twisted_plans_inception
+Dissolution | Shatter		early, late	[Softening <-]: Destroy 3 Guards | [Soft <-- Hard; Narrow --> Wide]: Convert Guards into Vitality Damage or Braveries into Resolve Damage			planewarper			dissolution_shatter
+Inundate | Suffocate		any	[Soft <-- Hard ; Narrow <-- Wide]: Slay one Hero			planewarper			inundate_suffocate
+Manifold		entrance	[Soft --> Hard ; Narrow <-- Wide ; Neutral Fate]: The Heroes do not act, all Assets resolve at the same time and target both Ranks			planewarper			project_manifold
+Depersonalize		hero	[Soft <-- Hard ; Narrow --> Wide]: Change a Legend into a regular Hero of its Faction			planewarper			depersonalize
+Desynchronize		any	[Neutral Time, Space, and Fate]: Ignore the Resonance requirements of the next Action you play. After resolving this next action, randomize Time, Space, and Fate			planewarper			desynchronize
+Synchronize		any	[Non-Neutral Space, Time, and Fate]: Set Space, Time, and Fate to Neutral. Ignore the Resonance requirements of the next Action you play.			planewarper			synchronize
+Triangulate		early, late	[Soft ; Narrow]: Choose an attack. Any attack of the same type (Resolve or Vitality) can join this attack, regardless of Rank.			planewarper			triangulate
+Decimate		any	[Hard ; Wide]: Kill 1/10th of all Heroes, rounding up.			planewarper			decimate
