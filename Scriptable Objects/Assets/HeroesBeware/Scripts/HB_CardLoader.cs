@@ -68,6 +68,7 @@ namespace HeroesBeware
             for (int i = 1; i < lines.Length; i++)
             {
                 string[] row = lines[i].Split('\t');
+
                 if (row[0].Length > 0 && row[0][0] == '^')
                 {
                     lineCounter++;
@@ -106,7 +107,7 @@ namespace HeroesBeware
             //captureHeight = (int)transform.FindDeepChild("Grid").GetComponent<RectTransform>().rect.height;
             int cardCount = 0, captureCount = 1;
 
-            print(string.Join("| ", rows));
+            //print(string.Join("| ", rows));
 
             foreach (Row row in rows)
             {
@@ -115,7 +116,7 @@ namespace HeroesBeware
                 copies = Mathf.Max(1, copies);
                 for (int i = 0; i < copies; i++) {
                     string group = cardSlots[cardCount].Fill(row, cardDefinition);
-                    yield return new WaitForEndOfFrame();
+                    yield return new WaitForSeconds(1);
                     if (++cardCount == captureCount)
                     {
                         Capture(group);

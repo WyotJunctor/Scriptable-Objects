@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 namespace HeroesBeware
 {
     //public class column, assign, default,
-    public enum CardComponentType { Text, Image, Color, Symbol };
+    public enum CardComponentType { Text, Image, Color, Symbol, Map };
 
     [System.Serializable]
     public class CardComponent
@@ -43,10 +43,44 @@ namespace HeroesBeware
             this.cardComponentType = cardComponentType;
         }
 
+        string Emojify(string unfortunate_soul)
+        {
+            string transcended_entity = "";
+            int emoji_zone = 0;
+            for (int i = 0; i < unfortunate_soul.Length; i++)
+            {
+                if (unfortunate_soul[i] > 0x00BF || unfortunate_soul[i] == '~')
+                {
+                    //Debug.Log($"ERMM... STINKY DETECTED?? {unfortunate_soul[i].ToString()}");
+                    transcended_entity +=
+                        CardComponent.rgx.Replace(
+                            unfortunate_soul.Substring(emoji_zone, i - emoji_zone), "");
+                    if (unfortunate_soul[i] == '~')
+                    {
+                        transcended_entity += $"<color=#7777><font=\"emoji_font\">{unfortunate_soul[i+1]}</font></color>";
+                        i++;
+                    }
+                    else
+                    {
+
+                        transcended_entity += $"<font=\"emoji_font\">0x1F32B</font>";
+                    }
+                    emoji_zone = i + 1;
+                }
+            }
+            if (emoji_zone < unfortunate_soul.Length)
+            {
+                transcended_entity +=
+                    CardComponent.rgx.Replace(
+                        unfortunate_soul.Substring(emoji_zone), "");
+            }
+            return transcended_entity;
+        }
+
         public virtual bool Fill(string value, Transform holder)
         {
-            if (this.holder == null) this.holder = holder; 
-            value = rgx.Replace(value, "");
+            if (this.holder == null) this.holder = holder;
+            value = Emojify(value); //rgx.Replace(value, "");
             switch (cardComponentType)
             {
                 case CardComponentType.Image:
@@ -75,7 +109,6 @@ namespace HeroesBeware
                     holder.FindDeepChild(componentName).gameObject.SetActive(value == "TRUE");
                     break;
             }
-
             return true;
         }
 

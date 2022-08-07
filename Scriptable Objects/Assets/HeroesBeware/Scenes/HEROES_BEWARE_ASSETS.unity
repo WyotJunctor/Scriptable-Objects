@@ -2567,7 +2567,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   csvFile: {fileID: 4900000, guid: 34ce3663e470d2d4193ffcb0cf1640b8, type: 3}
   capture: 1
-  cardDefinition: {fileID: 0}
+  cardDefinition: {fileID: 11400000, guid: 6237044008cc325429a9a09241119f40, type: 2}
 --- !u!1 &1696643490
 GameObject:
   m_ObjectHideFlags: 0
